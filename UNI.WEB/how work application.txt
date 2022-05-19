@@ -1,0 +1,8 @@
+Rana Tajik 51575
+
+for log in to the application 
+
+if you want log in in student id we have to add in User_ID, we have find Student_ID into data base and add for 
+paswword we have add SH_SH .
+
+and for login teacher section we have find teacher_ID and SH-SH 
